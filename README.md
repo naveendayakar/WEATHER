@@ -13,7 +13,7 @@ The script will perform steps 1 and 2 only.
 
 
 ## Steps:
-1) Clone the STOCKX.py(STOCKX-noDB.py if not ETL needed) file
+1) Clone the STOCKX.py file(STOCKX-noDB.py if no ETL needed)
 2) Enter the DB details by editing the STOCKX.py file.(if you have mysql and want the script to do the ETL to database do this step, else skip this if you are using STOCKX-noDB.py)
 (Enter host_name ="localhost"
 user_name ="root"
